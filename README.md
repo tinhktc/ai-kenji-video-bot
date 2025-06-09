@@ -2,7 +2,7 @@ Do you want to own a "factory" that automatically produces short-form videos for
 This project is the result of meticulous development and optimization, perfect for anyone looking to build an automated news channel, a sports commentary channel, a market update channel, and more, without spending countless hours on production.
 
 **📺 WATCH THE LIVE DEMO HERE 📺**
-[https://www.youtube.com/watch?v=7](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3D7)
+[[https://www.youtube.com/watch?v=7](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3D7)](https://youtube.com/shorts/JTyt23ekwqs)
 
 ## **🔥 Key Features**
 
