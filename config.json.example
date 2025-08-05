@@ -1,0 +1,36 @@
+{
+  "download_dir": "downloads/raw_videos",
+  "shots_temp_dir": "temp/shots",
+  "library_root": "library",
+  "use_ai_analysis": true,
+  "database": {
+    "host": "localhost",
+    "database": "video_library",
+    "user": "root",
+    "password": "your_password_here",
+    "port": 3306,
+    "charset": "utf8mb4",
+    "collation": "utf8mb4_unicode_ci",
+    "autocommit": true
+  },
+  "shot_detection": {
+    "threshold": 0.3,
+    "min_shot_duration": 1.0,
+    "max_shot_duration": 30.0,
+    "use_optical_flow": true,
+    "use_edge_detection": true
+  },
+  "metadata_extraction": {
+    "use_ai_analysis": true,
+    "histogram_bins": 256
+  },
+  "processing": {
+    "batch_size": 5,
+    "max_concurrent": 2
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "video_processor.log",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  }
+}
